@@ -1,0 +1,14 @@
+Download Course Materials
+This lecture includes a .zip file with the completed course files. These represent the final versions of the Excel workbooks that were created during the filming of this course. 
+
+Please note that there may be slight differences between the content of the workbooks and the content of the videos. These differences are negligible; you'll be able to understand the concepts if you proceed through the course in a linear fashion.
+
+The workbooks are organized by course section. The name of the workbook will usually be identical to the lesson name. Sometimes, content across multiple lessons will be packaged into a single workbook.
+
+It is strongly recommended that you use the workbooks strictly as a point of reference. The best strategy for your technical development is to:
+
+open Excel alongside the course videos
+create a new workbook (if needed) for each course video
+copy the code that I write out in the video
+execute and test the code in your Excel application
+experiment with the code to see what else it can do
